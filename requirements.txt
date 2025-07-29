@@ -1,15 +1,4 @@
-# 🧠 Financial Policy Chatbot
-
-This chatbot answers questions about a financial policy document using AI + vector search.
-
-## 📦 Features
-- Extracts and indexes policy document
-- Searches with sentence embeddings
-- Tracks source (page number)
-- Simple chat memory
-
-## 🚀 Setup Instructions
-
-1. Install dependencies
-```bash
-pip install -r requirements.txt
+faiss-cpu==1.7.4
+sentence-transformers==2.2.2
+PyMuPDF==1.23.7
+numpy==1.26.4
