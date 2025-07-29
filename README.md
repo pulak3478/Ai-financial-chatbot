@@ -14,6 +14,10 @@ The chatbot extracts and indexes information from the document, allowing users t
 ✅ Answers questions with **relevant source reference (page number)**  
 ✅ Tracks conversation context to handle **follow-up queries**  
 ✅ Lightweight and runs **fully locally**
+✅ Interactive chat interface using Streamlit.
+✅ Persistent chat history during the session.
+✅ User-friendly input and output display.
+✅ Powered by a custom `Chatbot` class (imported from `chatbot.py`).
 
 ---
 
