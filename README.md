@@ -49,6 +49,6 @@ The chatbot extracts and indexes information from the document, allowing users t
 ## 🚀 How to Run
 
 ### 1. Clone this repo
-``bash
-git clone https://github.com/your-username/Ai-financial-chatbot.git
-cd Ai-financial-chatbot
+-```bash
+-git clone https://github.com/your-username/Ai-financial-chatbot.git
+-cd Ai-financial-chatbot
