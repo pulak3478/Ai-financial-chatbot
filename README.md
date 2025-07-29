@@ -17,7 +17,7 @@ The chatbot extracts and indexes information from the document, allowing users t
 
 ---
 
-## 🧠 Technologies Used
+## Technologies Used
 
 - **Python 3**
 - [Sentence-Transformers](https://www.sbert.net/) – for text embeddings
@@ -35,14 +35,6 @@ The chatbot extracts and indexes information from the document, allowing users t
 4. **Semantic Search**: For each query, the top matching chunks are fetched from the index and returned with the source page number.
 
 ---
-
-## 🚀 How to Run
-
-### 1. Clone this repo
-``bash
-git clone https://github.com/your-username/ai-financial-chatbot.git
-cd ai-financial-chatbot
-
 ## Requirements
 
 - Python 3.8+
@@ -54,8 +46,9 @@ cd ai-financial-chatbot
 - sentence-transformers
 - PyMuPDF
 
-# Ai-financial-chatbot
-AI chatbot that answers financial policy document queries using vector search and memory
+## 🚀 How to Run
 
-
-
+### 1. Clone this repo
+``bash
+git clone https://github.com/your-username/Ai-financial-chatbot.git
+cd Ai-financial-chatbot
