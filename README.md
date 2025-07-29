@@ -1,9 +1,8 @@
 # 🤖 AI-Powered Financial Policy Chatbot
-
 This project is a submission for the **AI Developer Assessment**, where the goal is to build a simple AI chatbot that can answer questions from a government **financial policy document**.
 
 The chatbot extracts and indexes information from the document, allowing users to query it using natural language and receive smart, context-aware answers — including follow-up questions like "What about debt?"
-
+WebApp Link: https://ai-financial-chatbot-4e3fhuiozrnxegjittg4dn.streamlit.app/
 ---
 
 ## 📄 Project Features
