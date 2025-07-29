@@ -2,7 +2,7 @@ streamlit
 PyPDF2
 pdfplumber
 transformers
-faiss
 torch
 sentence-transformers
 scikit-learn
+faiss-cpu
